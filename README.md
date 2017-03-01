@@ -6,8 +6,8 @@
 
 ## Requirements
 
-- iOS 8.0+
-- Swift 2.0+
+- iOS 9.0+
+- Swift 2.2.0+
 - ARC
 
 ##Installation
