@@ -2,7 +2,9 @@
 
 
 ## features
-
+- Handling and caching photos 
+- Rotate and rounding photos
+- display one selected photo in canvas
 
 ## Requirements
 
